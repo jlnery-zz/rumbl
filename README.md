@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Rumbl
 
 To start your Phoenix app:
@@ -21,5 +20,3 @@ Ready to run in production? Please [check our deployment guides](http://www.phoe
   * Source: https://github.com/phoenixframework/phoenix
 =======
 # rumbl
-Learning Phoenix
->>>>>>> ac261f20bdea0a23873a8ef4317b2ecfcbb4b3a5

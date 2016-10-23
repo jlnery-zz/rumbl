@@ -1,6 +1,7 @@
-<h2>New video</h2>
+<h2>Novo video</h2>
 
 <%= render "form.html", changeset: @changeset,
+						categories: @categories,
                         action: video_path(@conn, :create) %>
 
-<%= link "Back", to: video_path(@conn, :index) %>
+<%= link "Voltar", to: video_path(@conn, :index) %>
